@@ -1,2 +1,6 @@
 # MindfulWatch
-MindfulWatch is an innovative tool designed to enhance students’ learning experiences by automating psychological video viewing. By following the instructions outlined in the “教程.pdf,” users can liberate themselves from formalities and immerse themselves in meaningful content. Remember to enjoy your wonderful time! 😊🌟<br>The provided executable (.exe) file is the original version of the tool. If you need additional features or have any other requests, feel free to contact me on QQ: 248241718. 😊👍<br>Thank you so much! Your encouragement means a lot to me. 🌟✨
+MindfulWatch is an innovative tool designed to help students break free from unnecessary constraints, learn what truly matters, and enjoy life by automating the process of viewing psychological videos. 
+
+The included executable (.exe) is the original version of the tool. If you’d like extra features or have other requests, feel free to reach me on QQ: 248241718. 😊👍
+
+Thank you for your star—it truly means a lot to me! 🌟✨
