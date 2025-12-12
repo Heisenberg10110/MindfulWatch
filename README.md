@@ -4,3 +4,5 @@ MindfulWatch is an innovative tool designed to help students break free from unn
 If you’d like extra features or have other requests, feel free to reach me on QQ: 248241718. 😊👍
 
 Thank you for your star—it truly means a lot to me! 🌟✨
+
+Download: https://github.com/Heisenberg10110/MindfulWatch/releases/latest/download/MindfulWatch.exe
