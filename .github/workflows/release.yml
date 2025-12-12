@@ -1,0 +1,46 @@
+name: Build EXE for Release
+
+on:
+  release:
+    types: [published]
+
+jobs:
+  build:
+    runs-on: windows-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+
+      - name: Install dependencies
+        run: |
+          pip install pyinstaller
+          pip install -r requirements.txt || true
+
+      - name: Build EXE
+        run: |
+          pyinstaller --onefile main.py
+          echo "EXE built successfully"
+
+      - name: Generate unique download token
+        run: |
+          python - <<EOF
+import uuid
+with open("token.info", "w") as f:
+    f.write(str(uuid.uuid4()))
+print("Token generated")
+EOF
+
+      - name: Upload Release Assets
+        uses: softprops/action-gh-release@v2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          files: |
+            dist/main.exe
+            token.info
