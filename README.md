@@ -1,6 +1,14 @@
-# MindfulWatch
-MindfulWatch is an innovative tool designed to help students break free from unnecessary constraints, learn what truly matters, and enjoy life by automating the process of viewing psychological videos. 
+MindfulWatch 是一款小工具，希望通过自动化观看心理健康线上视频，帮你把时间从一些不必要的束缚里解放出来，把精力留给真正重要的学习与生活。
 
-If you’d like extra features or have other requests, feel free to reach me on QQ: 248241718. 😊👍
+如果你希望增加功能，或有任何建议与需求，欢迎随时通过 QQ：248241718 联系我～😊👍
 
-Thank you for your star—it truly means a lot to me! 🌟✨
+非常期待和感谢你的 Star！你的支持对我很重要～🌟✨
+
+Download: https://github.com/Heisenberg10110/MindfulWatch/releases/latest/download/MindfulWatch.exe
+
+如果觉得好用 快分享给你的朋友们吧🥳🥳
+
+## 群聊二维码
+扫码进群获取今日验证码：
+
+![速通群](img/速通群.jpg)
